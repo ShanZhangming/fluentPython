@@ -30,3 +30,4 @@ dis.dis('s[a] += b')
 #88
 #hello
 #h
+#。。
